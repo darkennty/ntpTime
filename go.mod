@@ -1,4 +1,4 @@
-module ntpTime
+module github.com/darkennty/ntp-time
 
 go 1.24.6
 
