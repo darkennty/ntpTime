@@ -1,4 +1,4 @@
-package ntpTime
+package main
 
 import (
 	"errors"
